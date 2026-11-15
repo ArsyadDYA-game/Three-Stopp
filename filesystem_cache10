@@ -1,0 +1,52 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1794730472
+3_dgame.tscn::PackedScene::3213427878643436222::1794727171::0::1::::<><><>0<>0<><>::uid://c8uyo00tt1mwv::::res://assets/worn_shutter_diff_4k.jpg<>uid://dmm1y3gfr7ow3::::res://player_3d.gd<>uid://cq0o12qrr0ydb::::res://assets/broken_brick_wall_diff_4k.jpg<>uid://dimodv8r4ph68::::res://assets/old_wooden_floor_03_diff_4k.jpg<>uid://dlwqqxdomf8rv::::res://spike_spawner.gd<>uid://doan4wqg6xb2g::::res://spike2d.tscn<>uid://b8wagaxba8bxn::::res://key.gd<>uid://vl7o130b3wky::::res://exit_door.gd<>uid://bj0we413cwmvr::::res://assets/images__5_-removebg-preview.png<>uid://cw2hwa1un6ylk::::res://rough_pine_door_diff_4k.jpg<>uid://7ntbx8ojfil3::::res://teh es jatuh.wav
+ada teh es.wav::AudioStreamWAV::8217031807534527375::1794727061::1794727062::1::::<><><>0<>0<>697da66d7ce446d89fa81d870b252cfe<>res://.godot/imported/ada teh es.wav-04b1bb380862c9db2d070af279652037.sample::
+area_2d.gd::GDScript::1074108579992013165::1794729844::0::1::::<>Area2D<><>0<>0<><>::
+area_2d_monster.gd::GDScript::4183310014861936040::1794726656::0::1::::<>Area2D<><>0<>0<><>::
+area_2d_to_3d.gd::GDScript::8193207504047641214::1794724384::0::1::::<>Area2D<><>0<>0<><>::
+character_body_2d.gd::GDScript::4526818539880494428::1794716676::0::1::::<>CharacterBody2D<><>0<>0<><>::
+credits.gd::GDScript::2346762524939820057::1794721859::0::1::::<>Control<><>0<>0<><>::
+credits.tscn::PackedScene::8838621295719874644::1794727171::0::1::::<><><>0<>0<><>::uid://8o13ok8jh2yv::::res://credits.gd
+exit_door.gd::GDScript::1498643226576508628::1794715892::0::1::::<>Area3D<><>0<>0<><>::
+icon.svg::CompressedTexture2D::2519475777828309964::1794643709::1794643713::1::::<><><>0<>0<>640acae692c4eb9e7faf811a8447c149<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+key.gd::GDScript::4748079584678150151::1794709536::0::1::::<>Area3D<><>0<>0<><>::
+level.tscn::PackedScene::9216322237726476012::1794722922::0::1::::<><><>0<>0<><>::
+main.tscn::PackedScene::3470405113138753835::1794729844::0::1::::<><><>0<>0<><>::uid://c622bcg7fauyd::::res://script/player.gd<>uid://cppfmibg7qn6y::::res://assets/Player.png<>uid://df3glfkm1ba26::::res://assets/Soft White Radial Glow.png<>uid://bhcnh78sy0qa8::::res://assets/map.png<>uid://bgba17aag2ujt::::res://speech_bubble.gd<>uid://7ntbx8ojfil3::::res://teh es jatuh.wav<>uid://doy36vykhoq2i::::res://area_2d_to_3d.gd
+main_menu.gd::GDScript::7344175335914558113::1794729844::0::1::::<>Control<><>0<>0<><>::
+main_menu.tscn::PackedScene::3732756573050586672::1794727171::0::1::::<><><>0<>0<><>::uid://dcvtq28bdlo86::::res://main_menu.gd<>uid://danw43sl7gwoc::::res://WhatsApp Image 2026-11-14 at 20.12.50.jpeg<>uid://dpcnkwh1rf6vr::::res://ada teh es.wav
+medieval_red_brick_diff_4k.jpg::CompressedTexture2D::8518996005446436471::1794667387::1794667412::1::::<><><>0<>0<>28b39f295bf412ecee1da31baa58f8c4<>res://.godot/imported/medieval_red_brick_diff_4k.jpg-843544fab9dac661058421931692e3bc.s3tc.ctex::
+monster.gd::GDScript::2842261077877870026::1794725945::0::1::::<>CharacterBody2D<><>0<>0<><>::
+monster.tscn::PackedScene::772478635407460250::1794723943::0::1::::<><><>0<>0<><>::
+player.gd::GDScript::4520235620914411169::1794663873::0::1::::<>CharacterBody3D<><>0<>0<><>::
+player_3d.gd::GDScript::8027923688823854704::1794715458::0::1::::<>CharacterBody3D<><>0<>0<><>::
+play_button.gd::GDScript::8853482389776147624::1794717779::0::1::::<>RefCounted<><>0<>0<><>::
+purple_background.png::CompressedTexture2D::2356928167881913727::1794716676::1794716680::1::::<><><>0<>0<>f23fb18ab01484fb31acc98a1d6e69ea<>res://.godot/imported/purple_background.png-41535d9b1216524f0b116f41ef530351.ctex::
+rigid_body_2d.gd::GDScript::6855977179366324755::1794716676::0::1::::<>RigidBody2D<><>0<>0<><>::
+rough_pine_door_diff_4k.jpg::CompressedTexture2D::6373198474290043688::1794716389::1794716408::1::::<><><>0<>0<>8c8c93c5d5d0dace9d11d7b93a7218df<>res://.godot/imported/rough_pine_door_diff_4k.jpg-ce627696dfa052ceee6484b6cf93adde.s3tc.ctex::
+scene_transition.gd::GDScript::1041629524871165545::1794717862::0::1::::<>CanvasLayer<><>0<>0<><>::
+scene_transition.tscn::PackedScene::1905685419651053893::1794727001::0::1::::<><><>0<>0<><>::uid://o3tqr6ko1t8l::::res://scene_transition.gd
+sideviw_2d.tscn::PackedScene::5222863392361204546::1794729518::0::1::::<><><>0<>0<><>::uid://b5q3bmhgrx3iu::::res://character_body_2d.gd<>uid://csyfsq4e4lrdg::::res://assets/Nature TileMegaPack.png<>uid://cppfmibg7qn6y::::res://assets/Player.png<>uid://dpcnkwh1rf6vr::::res://ada teh es.wav
+speech_bubble.gd::GDScript::2809666234673189709::1794716676::0::1::::<>Node2D<><>0<>0<><>::
+spike2d.tscn::PackedScene::8142748151486481416::1794727002::0::1::::<><><>0<>0<><>::uid://cmlbnb7vuxdh7::::res://assets/gCJMjc-removebg-preview.png<>uid://cxqflsx3wd38t::::res://spike_damage.gd
+spike.tscn::PackedScene::6743737626666129987::1794707123::0::1::::<><><>0<>0<><>::
+spike_damage.gd::GDScript::6420539026075236381::1794708144::0::1::::<>Area3D<><>0<>0<><>::
+spike_spawner.gd::GDScript::7977756899597550019::1794707960::0::1::::<>Node3D<><>0<>0<><>::
+teh es jatuh.wav::AudioStreamWAV::2274036575540209258::1794727065::1794727066::1::::<><><>0<>0<>303844a3728567785d1c7cb09b68662a<>res://.godot/imported/teh es jatuh.wav-a4bbc110ae084497c7c010e0be7763e5.sample::
+WhatsApp Image 2026-11-14 at 20.12.50.jpeg::CompressedTexture2D::7187488022749282118::1794716563::1794716564::1::::<><><>0<>0<>5f5bd14eaf45ccb75e6591f892cfe576<>res://.godot/imported/WhatsApp Image 2026-11-14 at 20.12.50.jpeg-45b00bb7728292815ff945a689fc9f00.ctex::
+::res://assets/::1794722922
+2026-11-14-150324-Drawing 264.png::CompressedTexture2D::2166211569346642338::1794649916::1794666507::1::::<><><>0<>0<>b4e89ec9a1e4edf89a94a24bc4932257<>res://.godot/imported/2026-11-14-150324-Drawing 264.png-8439c9d2bf178b227a55cb0ad84df455.s3tc.ctex::
+broken_brick_wall_diff_4k.jpg::CompressedTexture2D::5948370221629927359::1794667595::1794667606::1::::<><><>0<>0<>2c3607515704f87d1243be7864163c73<>res://.godot/imported/broken_brick_wall_diff_4k.jpg-ccbf80077e0ab9997b272017711e376a.s3tc.ctex::
+gCJMjc-removebg-preview.png::CompressedTexture2D::5637899681589648178::1794707488::1794707494::1::::<><><>0<>0<>e6ba767c87baa858e48b4774a95c5789<>res://.godot/imported/gCJMjc-removebg-preview.png-d7453052a900d15a7c195047869e04a5.s3tc.ctex::
+images__5_-removebg-preview.png::CompressedTexture2D::3071074201921181531::1794715755::1794715759::1::::<><><>0<>0<>357742daceed4c225112c5ab76c61b24<>res://.godot/imported/images__5_-removebg-preview.png-d8025dd76f74acd1d6a33eb0dc7c61d2.s3tc.ctex::
+map.png::CompressedTexture2D::2882674898707406761::1794668879::1794706419::1::::<><><>0<>0<>7784efcc0ce3e971e5c390a0d400b45b<>res://.godot/imported/map.png-dfba05084e3346587240e6093ee94fb2.ctex::
+mon.png::CompressedTexture2D::307475621175646800::1794722908::1794722922::1::::<><><>0<>0<>76d98a286ff64252d22f650bc58b0e64<>res://.godot/imported/mon.png-285b01e34524396c646ee9d338087342.ctex::
+Nature TileMegaPack.png::CompressedTexture2D::6086122233616218008::1794716676::1794716680::1::::<><><>0<>0<>0f59ec621b33dfe13941274677f047fa<>res://.godot/imported/Nature TileMegaPack.png-de15d044d2022cec77f5755008cc059c.ctex::
+old_wooden_floor_03_diff_4k.jpg::CompressedTexture2D::7746401883293378179::1794668368::1794668384::1::::<><><>0<>0<>6f6043025303bf11966429b64219c780<>res://.godot/imported/old_wooden_floor_03_diff_4k.jpg-11fab131db1232fcbaa459f65395a147.s3tc.ctex::
+Player.png::CompressedTexture2D::5856965124805901418::1794649916::1794650219::1::::<><><>0<>0<>d3d6e382ddc3cc440f9bc27610341286<>res://.godot/imported/Player.png-6803eab55bef976c27bd94984cab14de.ctex::
+Soft White Radial Glow.png::CompressedTexture2D::7568393070717496413::1794668879::1794706419::1::::<><><>0<>0<>7d913bcf90542a5d241d9d0a4e77c8cc<>res://.godot/imported/Soft White Radial Glow.png-25b05905b9221a6ccf5833f5ec6dad60.ctex::
+tile008.png::CompressedTexture2D::7098568875471369461::1794666555::1794666562::1::::<><><>0<>0<>c86ce97f468476dff35f23c123de0d17<>res://.godot/imported/tile008.png-19c55e0e21060ad2188f34760485ff79.s3tc.ctex::
+tile014.png::CompressedTexture2D::2381022312141174861::1794666606::1794666646::1::::<><><>0<>0<>a086ec46cfdcf4d2efe4924ff2332adc<>res://.godot/imported/tile014.png-b9bb8edc8a12a464490db198aaf4d22b.s3tc.ctex::
+worn_shutter_diff_4k.jpg::CompressedTexture2D::7131844324057093969::1794668110::1794668127::1::::<><><>0<>0<>dcd1a66621afb3bd0b98e4d37324d323<>res://.godot/imported/worn_shutter_diff_4k.jpg-673d642606a54ae351c55c11afb18f4c.s3tc.ctex::
+::res://script/::1794726639
+player.gd::GDScript::7006074979899585363::1794726639::0::1::::<>CharacterBody2D<><>0<>0<><>::
